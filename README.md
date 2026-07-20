@@ -1,67 +1,73 @@
-# 👋 Привет! Я Лючев Ярослав | 👋 Hi! I'm Yaroslav Luchev
-
-<table>
-  <tr>
-    <th width="50%">🇷🇺 Russian</th>
-    <th width="50%">en English</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>👨‍💻 Обо мне</h3>
-      <p>Я — <b>Unity Developer</b> с опытом более 1.5 лет. Специализируюсь на разработке тренажеров, промышленных симуляторов и приложений с элементами геймификации.</p>
-      <p>В своей работе я придерживаюсь принципов <b>Clean Code</b>, стремлюсь к гибкости архитектуры и активно использую <b>AI-агентов</b> (Deepseek, Grok, Qwen local, Gemini local) для ускорения разработки и написания документации.</p>
-    </td>
-    <td valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>I am a <b>Unity Developer</b> with over 1.5 years of experience. I specialize in developing simulators, industrial simulation software, and gamified applications.</p>
-      <p>I follow <b>Clean Code</b> principles, strive for architectural flexibility, and actively use <b>AI agents</b> (Deepseek, Grok, Qwen local, Gemini local) to accelerate development and documentation.</p>
-    </td>
-  </tr>
-</table>
+# 🎮 Developer Profile: Yaroslav Luchev
 
 ---
 
-### 🛠 Стек технологий / Tech Stack
+## EN
 
-| Категория | Технологии |
+### 📊 Character Stats (About Me)
+> **Class:** Unity Developer  
+> **Level:** 1.5+ Years Experience  
+> **Specialization:** Games, simulators, Educational Apps, Gamified Systems
+
+I am a **Unity Developer** focused on creating high-quality simulators, industrial training applications, and gamified experiences. I follow **Clean Code** principles and strive for scalable, flexible architecture. I actively integrate **AI Agents** (Deepseek, Grok, Qwen, Gemini) into my workflow to optimize development and documentation processes.
+
+### 📜 Quest Log (Work Experience)
+
+*   **🏗 LightSim Digital** | *Unity Developer* (Present)
+    *   **Mission:** Developing industrial manipulator simulators.
+    *   **Tools:** `TriInspector`, `XCharts`, `NuGetForUnity`.
+*   **🏛 Uniday** | *Unity Developer*
+    *   **Mission:** Building educational and museum-based simulators.
+    *   **Tools:** `Odin Inspector`, `Reflex`, `SQLite-net`, `Profiler`, `Bakery`.
+*   **🎲 LLC GRS** | *Unity Developer*
+    *   **Mission:** Developing "Adventure Generator" (AI-based DnD Android app).
+    *   **Tools:** `UnityWebRequest`, `iTextSharp`, `RuStore`.
+
+---
+
+## 🛠 Technical Inventory (Tech Stack)
+
+| Category | Skills & Abilities |
 | :--- | :--- |
 | **Core** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-SOLID-blue?style=for-the-badge) ![Design_Patterns](https://img.shields.io/badge/Patterns-GoF-orange?style=for-the-badge) |
-| **Unity** | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![URP](https://img.shields.io/badge/URP-Pink?style=for-the-badge) ![ECS](https://img.shields.io/badge/ECS-Orange?style=for-the-badge) ![Cinemachine](https://img.shields.io/badge/Cinemachine-Green?style=for-the-badge) |
+| **Unity Engine** | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![URP](https://img.shields.io/badge/URP-Pink?style=for-the-badge) ![ECS](https://img.shields.io/badge/ECS-Orange?style=for-the-badge) ![Cinemachine](https://img.shields.io/badge/Cinemachine-Green?style=for-the-badge) |
 | **Architecture** | ![DI](https://img.shields.io/badge/DI-Zenject%20/%20Reflex-blue?style=for-the-badge) ![MVVM](https://img.shields.io/badge/Pattern-MVVM%20/%20MVA-purple?style=for-the-badge) |
 | **Libraries** | `UniTask` • `UniRx` • `DoTween` • `Odin Inspector` • `TriInspector` • `Addressables` |
-| **Tools & Dev** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/CI/CD-Blue?style=for-the-badge) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/CI/CD-Blue?style=for-the-badge) |
 
 ---
 
-<table>
-  <tr>
-    <th width="50%">💼 Опыт работы</th>
-    <th width="50%">💼 Experience</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><b>🏗 ООО Лайтсим Диджитал</b> | <i>Unity Developer</i> (Present)<br>Разработка симуляторов промышленных манипуляторов. Использую <code>TriInspector</code>, <code>XCharts</code> и <code>NuGetForUnity</code>.</li>
-        <li><b>🏛 ООО Юнидэй</b> | <i>Unity Developer</i><br>Создание образовательных и музейных тренажеров. Работа с <code>Odin Inspector</code>, <code>Reflex</code>, <code>SQLite-net</code> и оптимизация через <code>Profiler</code> и <code>Bakery</code>.</li>
-        <li><b>🎲 ООО ГРС</b> | <i>Unity Developer</i><br>Разработка Android-приложения «Генератор приключений» на базе AI (DnD генерация). Работа с <code>UnityWebRequest</code>, <code>iTextSharp</code> и <code>RuStore</code>.</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li><b>🏗 LightSim Digital LLC</b> | <i>Unity Developer</i> (Present)<br>Developing industrial manipulator simulators. Using <code>TriInspector</code>, <code>XCharts</code>, and <code>NuGetForUnity</code>.</li>
-        <li><b>🏛 Uniday LLC</b> | <i>Unity Developer</i><br>Creating educational and museum simulators. Working with <code>Odin Inspector</code>, <code>Reflex</code>, <code>SQLite-net</code>, and optimization via <code>Profiler</code> and <code>Bakery</code>.</li>
-        <li><b>🎲 GRS LLC</b> | <i>Unity Developer</i><br>Developing "Adventure Generator" Android app based on AI (DnD generation). Working with <code>UnityWebRequest</code>, <code>iTextSharp</code>, and <code>RuStore</code>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🇷🇺
+
+### 📊 Характеристики (Обо мне)
+> **Класс:** Unity Developer  
+> **Уровень:** 1.5+ года опыта  
+> **Специализация:** Игры, симуляторы, образовательные приложения, геймификация
+
+Я — **Unity Developer**, специализирующийся на разработке тренажеров, промышленных симуляторов и приложений с элементами геймификации. В работе придерживаюсь принципов **Clean Code**, стремлюсь к гибкой архитектуре и активно использую **AI-агентов** (Deepseek, Grok, Qwen, Gemini) для ускорения разработки и автоматизации документации.
+
+### 📜 Журнал миссий (Опыт работы)
+
+*   **🏗 Лайтсим Диджитал** | *Unity Developer* (По настоящее время)
+    *   **Задача:** Разработка симуляторов промышленных манипуляторов.
+    *   **Инструменты:** `TriInspector`, `XCharts`, `NuGetForUnity`.
+*   **🏛 Uniday** | *Unity Developer*
+    *   **Задача:** Создание образовательных и музейных тренажеров.
+    *   **Инструменты:** `Odin Inspector`, `Reflex`, `SQLite-net`, `Profiler`, `Bakery`.
+*   **🎲 ООО ГРС** | *Unity Developer*
+    *   **Задача:** Разработка Android-приложения «Генератор приключений» (AI/DnD).
+    *   **Инструменты:** `UnityWebRequest`, `iTextSharp`, `RuStore`.
 
 ---
 
-### 🌐 Ссылочки / Connect with me
+### 🌐 Communication Channels
 
 <p align="left">
 <a href="https://t.me/NotSmailk" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.youtube.com/@notsmailk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://github.com/NotSmailk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotSmailk&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
