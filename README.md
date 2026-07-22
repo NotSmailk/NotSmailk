@@ -29,11 +29,11 @@ I am a **Unity Developer** focused on creating high-quality simulators, industri
 
 | Category | Skills & Abilities |
 | :--- | :--- |
-| **Core** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-SOLID-blue?style=for-the-badge) ![Design_Patterns](https://img.shields.io/badge/Patterns-GoF-orange?style=for-the-badge) |
-| **Unity Engine** | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![URP](https://img.shields.io/badge/URP-Pink?style=for-the-badge) ![ECS](https://img.shields.io/badge/ECS-Orange?style=for-the-badge) ![Cinemachine](https://img.shields.io/badge/Cinemachine-Green?style=for-the-badge) |
-| **Architecture** | ![DI](https://img.shields.io/badge/DI-Zenject%20/%20Reflex-blue?style=for-the-badge) ![MVVM](https://img.shields.io/badge/Pattern-MVVM%20/%20MVA-purple?style=for-the-badge) |
+| **Core** | `C#` • `OOP` • `GoF` |
+| **Unity Engine** | `Unity` • `URP` • `ECS` • `Cinemachine` |
+| **Architecture** | `DI` • `MVVM` • `MVA` • `MVC` • `MVP` |
 | **Libraries** | `UniTask` • `UniRx` • `DoTween` • `Odin Inspector` • `TriInspector` • `Addressables` |
-| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/CI/CD-Blue?style=for-the-badge) |
+| **Dev Tools** | `Git` • `Android` • `CI/CD` |
 
 ---
 
