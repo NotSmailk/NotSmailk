@@ -1,33 +1,62 @@
-# 🎮 Developer Profile: Yaroslav Luchev
+# 🎮 Yaroslav Luchev
+
+[English](#english) · [Русский](#русский)
 
 ---
 
-## EN
+## English
 
-### 📊 Character Stats (About Me)
-> **Class:** Unity Developer  
-> **Level:** 1.5+ Years Experience  
-> **Specialization:** Games, simulators, Educational Apps, Gamified Systems
+### 📊 Character Stats
+> **Class:** Unity Developer
+> 
+> **Level:** 2 years of experience
+> 
+> **Specialization:** games, simulators, educational apps, gamified systems
 
-I am a **Unity Developer** focused on creating high-quality simulators, industrial training applications, and gamified experiences. I follow **Clean Code** principles and strive for scalable, flexible architecture. I actively integrate **AI Agents** (Deepseek, Grok, Qwen, Gemini) into my workflow to optimize development and documentation processes.
+I'm a Unity Developer building high-quality simulators, industrial training applications, and gamified experiences. I follow Clean Code principles and aim for scalable, flexible architecture. I also use AI agents (ChatGPT, Claude, Qwen, Gemini) to speed up development and documentation.
 
-### 📜 Quest Log (Work Experience)
+### 📜 Quest Log
 
-*   **🏗 LightSim Digital** | *Unity Developer* (Present)
-    *   **Mission:** Developing industrial manipulator simulators.
-    *   **Tools:** `TriInspector`, `XCharts`, `NuGetForUnity`.
-*   **🏛 Uniday** | *Unity Developer*
-    *   **Mission:** Building educational and museum-based simulators.
-    *   **Tools:** `Odin Inspector`, `Reflex`, `SQLite-net`, `Profiler`, `Bakery`.
-*   **🎲 LLC GRS** | *Unity Developer*
-    *   **Mission:** Developing "Adventure Generator" (AI-based DnD Android app).
-    *   **Tools:** `UnityWebRequest`, `iTextSharp`, `RuStore`.
+- **🏗 LightSim Digital** · *Unity Developer* · Present
+  - **Mission:** Developing industrial manipulator simulators.
+  - **Tools:** `TriInspector`, `XCharts`, `NuGetForUnity`
+- **🏛 Uniday** · *Unity Developer* · Nov 2024 – Jun 2025
+  - **Mission:** Building educational and museum simulators.
+  - **Tools:** `Odin Inspector`, `Reflex`, `SQLite-net`, `Profiler`, `Bakery`
+- **🎲 GRS** · *Unity Developer* · Jul 2024 – Mar 2025
+  - **Mission:** Developing "Adventure Generator," an AI-based D&D Android app.
+  - **Tools:** `UnityWebRequest`, `iTextSharp`, `RuStore`
 
 ---
 
-## 🛠 Technical Inventory (Tech Stack)
+## Русский
 
-| Category | Skills & Abilities |
+### 📊 Характеристики
+> **Класс:** Unity Developer
+> 
+> **Уровень:** 2 года опыта
+> 
+> **Специализация:** игры, симуляторы, образовательные приложения, геймификация
+
+Я Unity-разработчик. Создаю качественные симуляторы, промышленные тренажёры и приложения с элементами геймификации. Придерживаюсь принципов Clean Code и стремлюсь к масштабируемой и гибкой архитектуре. Использую AI-агентов (ChatGPT, Claude, Qwen, Gemini) для ускорения разработки и подготовки документации.
+
+### 📜 Журнал миссий
+
+- **🏗 Лайтсим Диджитал** · *Unity Developer* · по настоящее время
+  - **Задача:** разработка симуляторов промышленных манипуляторов.
+  - **Инструменты:** `TriInspector`, `XCharts`, `NuGetForUnity`
+- **🏛 Uniday** · *Unity Developer* · ноябрь 2024 – июнь 2025
+  - **Задача:** создание образовательных и музейных тренажёров.
+  - **Инструменты:** `Odin Inspector`, `Reflex`, `SQLite-net`, `Profiler`, `Bakery`
+- **🎲 ГРС** · *Unity Developer* · июль 2024 – март 2025
+  - **Задача:** разработка Android-приложения «Генератор приключений» (AI-based D&D).
+  - **Инструменты:** `UnityWebRequest`, `iTextSharp`, `RuStore`
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Skills |
 | :--- | :--- |
 | **Core** | `C#` • `OOP` • `GoF` |
 | **Unity Engine** | `Unity` • `URP` • `ECS` • `Cinemachine` |
@@ -37,33 +66,10 @@ I am a **Unity Developer** focused on creating high-quality simulators, industri
 
 ---
 
-## 🇷🇺
-
-### 📊 Характеристики (Обо мне)
-> **Класс:** Unity Developer  
-> **Уровень:** 1.5+ года опыта  
-> **Специализация:** Игры, симуляторы, образовательные приложения, геймификация
-
-Я — **Unity Developer**, специализирующийся на разработке тренажеров, промышленных симуляторов и приложений с элементами геймификации. В работе придерживаюсь принципов **Clean Code**, стремлюсь к гибкой архитектуре и активно использую **AI-агентов** (Deepseek, Grok, Qwen, Gemini) для ускорения разработки и автоматизации документации.
-
-### 📜 Журнал миссий (Опыт работы)
-
-*   **🏗 Лайтсим Диджитал** | *Unity Developer* (По настоящее время)
-    *   **Задача:** Разработка симуляторов промышленных манипуляторов.
-    *   **Инструменты:** `TriInspector`, `XCharts`, `NuGetForUnity`.
-*   **🏛 Uniday** | *Unity Developer*
-    *   **Задача:** Создание образовательных и музейных тренажеров.
-    *   **Инструменты:** `Odin Inspector`, `Reflex`, `SQLite-net`, `Profiler`, `Bakery`.
-*   **🎲 ООО ГРС** | *Unity Developer*
-    *   **Задача:** Разработка Android-приложения «Генератор приключений» (AI/DnD).
-    *   **Инструменты:** `UnityWebRequest`, `iTextSharp`, `RuStore`.
-
----
-
-### 🌐 Communication Channels
+## 📫 Contacts / Контакты
 
 <p align="left">
-<a href="https://t.me/NotSmailk" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@notsmailk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://github.com/NotSmailk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://t.me/NotSmailk" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@notsmailk" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://github.com/NotSmailk" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
